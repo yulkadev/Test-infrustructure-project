@@ -1,0 +1,4 @@
+{
+  "script": "window.localStorage.clear(); window.sessionStorage.clear()",
+  "args": []
+}

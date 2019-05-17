@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Clear" timestamp="2019-05-15T16:26:01" time="2.478" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Clear"/>
+      <property name="capabilities" value="chrome"/>
+      <property name="file" value="./tests/remove.js"/>
+    </properties>
+    <testcase classname="chrome.Clear" name="should_remove_one_item" time="2.444"/>
+  </testsuite>
+</testsuites>

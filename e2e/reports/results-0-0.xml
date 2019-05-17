@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Clear_all" timestamp="2019-05-16T18:09:01" time="7.914" tests="2" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Clear all"/>
+      <property name="capabilities" value="chrome.70_0_3538_67.linux"/>
+      <property name="file" value="./tests/clear_all.js"/>
+    </properties>
+    <testcase classname="chrome.70_0_3538_67.linux.Clear_all" name="should_remove_all_completed_items" time="3.929"/>
+    <testcase classname="chrome.70_0_3538_67.linux.Clear_all" name="should_not_remove_active_item" time="3.451"/>
+  </testsuite>
+</testsuites>

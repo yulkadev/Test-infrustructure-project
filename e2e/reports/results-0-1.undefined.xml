@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Complete" timestamp="2019-05-15T16:25:48" time="3.644" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Complete"/>
+      <property name="capabilities" value="chrome"/>
+      <property name="file" value="./tests/complete.js"/>
+    </properties>
+    <testcase classname="chrome.Complete" name="should_complete_one_item" time="3.612"/>
+  </testsuite>
+</testsuites>

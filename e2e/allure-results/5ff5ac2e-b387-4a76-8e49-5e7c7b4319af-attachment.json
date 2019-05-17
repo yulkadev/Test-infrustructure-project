@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "footer .filters a[href=\"#/active\"]"
+}

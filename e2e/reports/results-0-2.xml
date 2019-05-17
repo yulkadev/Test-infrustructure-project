@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Create" timestamp="2019-05-16T18:09:18" time="5.811" tests="2" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Create"/>
+      <property name="capabilities" value="chrome.70_0_3538_67.linux"/>
+      <property name="file" value="./tests/create.js"/>
+    </properties>
+    <testcase classname="chrome.70_0_3538_67.linux.Create" name="should_create_one_item" time="3.02"/>
+    <testcase classname="chrome.70_0_3538_67.linux.Create" name="should_increase_items_left_number" time="2.441"/>
+  </testsuite>
+</testsuites>
