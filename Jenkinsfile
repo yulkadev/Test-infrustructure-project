@@ -5,7 +5,7 @@ pipeline {
   environment {
     APP_NAME = "todo-app"
     APP_PORT = "8080"
-    SUT_URL = "http://${env.APP_NAME}:${APP_PORT}"
+    SUT_URL = "http://todomvc.com/examples/vue/" 
   }
   stages {
     stage('Unit tests') {
